@@ -35,5 +35,8 @@ docker-compose up --build
 
 ---
 
+Note: The `node_modules` directory is excluded from version control using [.gitignore](cci:7://file:///Users/ankursingh/Documents/projects/pubsub/pubsub-microservices/.gitignore:0:0-0:0).
+
+
 ## License
 MIT
